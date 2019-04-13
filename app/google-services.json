@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "147529746516",
+    "firebase_url": "https://owlchat-7a196.firebaseio.com",
+    "project_id": "owlchat-7a196",
+    "storage_bucket": "owlchat-7a196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147529746516:android:3035524b7a3ac02b",
+        "android_client_info": {
+          "package_name": "com.example.tahir.owlchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147529746516-l21b3da9bng8a80k6ru6mpbsghvrrb5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tahir.owlchat",
+            "certificate_hash": "e6408f97fb8119cbbb8be0f508cb864c687ecd82"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvpF3Lm-Wdrdy2DN2m83CkvUxsIxhmDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147529746516-iihub6h4v7v4a2npsncrfhhcknqte7l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
